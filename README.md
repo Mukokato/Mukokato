@@ -1,8 +1,5 @@
-![logo](https://github.com/Mukokato/Mukakato/blob/main/b4.png)
 <h1 align="center">Hi 🚀, I'm Mudasir Kakepoto</h1>
 <h3 align="center">A passionate Full stack Developer</h3>
-<img src="" align="right" alt="coding image" width="400">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
